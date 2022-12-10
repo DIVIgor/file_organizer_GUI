@@ -9,7 +9,7 @@ The compiled app file_organizer_gui.exe is in a dist folder.
     - if the folder:
       - exists;
       - readable;
-      - writeable;
+      - writable;
       - is not empty.
 3. If there's an issue, the app shows a window with the error message.
 4. Creates a root folder named: 'Organized files (DD-MMM-YYYY HH.MM.SS).'
